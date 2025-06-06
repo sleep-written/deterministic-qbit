@@ -2,7 +2,8 @@
   "type": "module",
   "scripts": {
     "test": "ava",
-    "start": "bb-path-alias start ./src/index.ts"
+    "start": "bb-path-alias start ./src/index.ts",
+    "build": "bb-path-alias build ./tsconfig.build.json"
   },
   "devDependencies": {
     "@bleed-believer/path-alias": "^2.3.1",

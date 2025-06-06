@@ -1,1 +1,0 @@
-export type { WaveFunction } from './wave.function.js';
