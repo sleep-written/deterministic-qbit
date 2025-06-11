@@ -1,1 +1,2 @@
-export type { WaveFunction } from './wave-function.js';
+export type { WaveFunction } from './types/wave-function.js';
+export { QBit } from './qbit.js';
